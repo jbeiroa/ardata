@@ -2,3 +2,6 @@
 
 #Jupyter
 **/*.ipynb_checkpoints/
+
+#J__pycache__
+**/__pycache__/
