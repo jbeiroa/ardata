@@ -1,11 +1,9 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+.DS_Store
 
-# C extensions
-*.so
+#Jupyter
+**/*.ipynb_checkpoints/
 
+<<<<<<< HEAD
 # Distribution / packaging
 .Python
 build/
@@ -163,3 +161,7 @@ cython_debug/
 
 # macOS
 .DS_Store
+=======
+#J__pycache__
+**/__pycache__/
+>>>>>>> origin
