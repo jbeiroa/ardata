@@ -7,8 +7,8 @@ You are free to:
 **NonCommercial**: You may not use the material for commercial purposes.
 
 **Attribution**: Please cite this project as:  
-edumetric.ar - Educational Data Dashboard for Argentina  
-[Link to this repository](https://github.com/yourusername/edumetricar)
+ardata - Python Package to download and handle Argentina's official data sources  
+[https://github.com/jbeiroa/ardata](https://github.com/jbeiroa/ardata)
 
 
-edumetric.ar © 2024 by Juan Ignacio Beiroa is licensed under CC BY-NC 4.0
+ardata © 2024 by Juan Ignacio Beiroa is licensed under CC BY-NC 4.0
